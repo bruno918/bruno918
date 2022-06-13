@@ -29,7 +29,7 @@
 
  -  🎓 Atualmente faço um curso Técnico em Informática na FEMA;
 
- - 🧠 Estou aprendendob;
+ - 🧠 Estou aprendendo;
 
  -  🎮 Geek e Gamer, amo animes, séries e jogos porque não vivo apenas de código;
 
