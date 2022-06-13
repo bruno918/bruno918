@@ -29,11 +29,11 @@
 
  -  🎓 Atualmente faço um curso Técnico em Informática na FEMA;
 
- -  🧠 Tenho um pequeno conhecimento e me aprimoro cada dia mais sobre NodeJS, HTML, CSS, JavaScript, PHP e ReactJS;
+ - 🧠 Estou aprendendob;
 
  -  🎮 Geek e Gamer, amo animes, séries e jogos porque não vivo apenas de código;
 
----
+
 
 ### :hammer_and_wrench:linguagens/ferramentas que estudo:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -45,8 +45,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+
+ ### :fire: Sobre o meu perfil:
 <br><br>
-<h3> :fire: Sobre o meu perfil:</h3>
-<br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno918&theme=dark&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno918&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
+
 
