@@ -2,7 +2,7 @@
   <img src="https://saraiva89.com/cv/images/dev.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-<a href="www.linkedin.com/brunoww">
+<a href="www.linkedin.com/in/brunoww">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
   </a>
   <a href="https://youtube.com/channel/UCZdQRnuiLOcJcHDwwO8JTDQ">
