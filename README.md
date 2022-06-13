@@ -2,13 +2,13 @@
   <img src="https://saraiva89.com/cv/images/dev.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-<a href="www.linkedin.com/in/brunoww">
+<a href="www.linkedin.com/brunoww">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
   </a>
   <a href="https://youtube.com/channel/UCZdQRnuiLOcJcHDwwO8JTDQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="78"/>
   </a>
-  <a href="instagram.com/b_r_u_n_o76">
+  <a href="https://instagram.com/b_r_u_n_o76">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge" width="90"/>
   </a>
 </div>
