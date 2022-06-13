@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://saraiva89.com/cv/images/dev.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
 <a href="www.linkedin.com/in/brunoww">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="80"/>
   </a>
@@ -44,8 +44,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-<br><br>
-### :fire: Sobre o meu perfil:
 
+<br><br>
+<h3> :fire: Sobre o meu perfil:</h3>
+<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno918&theme=dark&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
 
