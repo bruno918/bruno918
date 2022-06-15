@@ -48,6 +48,8 @@
 
  ### :fire: Sobre o meu perfil:
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bruno918&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
-
-
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=bruno918&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno918&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno918&layout=compact&langs_count=4&theme=dark"/>
+</div>
