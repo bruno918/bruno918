@@ -17,8 +17,6 @@
 
  - 🧠 Estou aprendendo;
 
- -  🎮 Geek e Gamer, amo animes, séries e jogos porque não vivo apenas de código;
-
 
 
 ### :hammer_and_wrench:linguagens/ferramentas que estudo:
