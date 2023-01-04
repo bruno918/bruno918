@@ -13,7 +13,7 @@
 
  -  🤓 Sonho em ser um programador bem sucedido;
 
- -  🎓 Atualmente faço um curso Técnico em Informática na FEMA;
+ -  🎓 Técnico em Informática na FEMA;
 
  - 🧠 Estou aprendendo;
 
