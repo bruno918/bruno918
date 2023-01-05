@@ -11,7 +11,7 @@
 
  -  🙋 Tenho 17 anos;
 
- -  🤓 Sonho em ser um programador bem sucedido;
+ -  🤓 Futuro DEV;
 
  -  🎓 Técnico em Informática na FEMA;
 
