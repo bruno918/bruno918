@@ -13,7 +13,7 @@
 
  -  🤓 Futuro DEV;
 
- -  🎓 Técnico em Informática na FEMA;
+ -  🎓 Técnico em Informática na FEMA && aluno do curso desenvolvedor fullstack da OneBitCode;
 
  - 🧠 Estou aprendendo;
 
